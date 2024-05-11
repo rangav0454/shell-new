@@ -2,3 +2,5 @@
 
 
 echo "All variable: $@"
+
+echo "Hostname: $Hostname"
