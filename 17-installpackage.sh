@@ -7,7 +7,7 @@ then
     echo "please run this script with root access."
     exit 1
 else
-    echo "you are super user"
+    echo "you are super user."
 fi
 
 echo "All packages: $@"
