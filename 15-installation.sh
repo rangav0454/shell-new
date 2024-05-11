@@ -10,5 +10,5 @@ else
     echo "You are super user."
 fi
 
-dnf install nginx -y
+dnf install docker -y
 echo "is script proceeding?"
