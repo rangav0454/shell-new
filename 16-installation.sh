@@ -10,5 +10,5 @@ else
     echo "you are super user"
 fi
 
-dnf install Ansible -y
+dnf install kubernetes -y
 echo "is script proceeding"
