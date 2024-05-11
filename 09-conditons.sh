@@ -1,8 +1,8 @@
 #!/bin/bash
 
-NUMBER=$5
+NUMBER=$1
 
-if [ $NUMBER>5 ]
+if [ $NUMBER -gt 10 ]
 
 then
      echo "Given number $NUMBER is greater than 10"
@@ -10,5 +10,5 @@ then
 else
 
      echo "Given number $NUMBER is lessthan 10"
-     
+
 fi
