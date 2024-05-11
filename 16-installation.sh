@@ -10,5 +10,5 @@ else
     echo "you are super user"
 fi
 
-dnf install docker -y
+dnf install git -y
 echo "is script proceeding"
