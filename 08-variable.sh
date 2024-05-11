@@ -3,4 +3,4 @@
 
 echo "All variable: $@"
 
-echo "Hostname: $Hostname"
+echo "Hostname: $HOSTNAME"
