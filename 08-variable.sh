@@ -1,6 +1,7 @@
 #!/bin/bash
 
 
-echo "All variable: $@"
+echo "All variables: $@"
 
 echo "Hostname: $HOSTNAME"
+echo "user running script: $USER"
