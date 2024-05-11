@@ -10,5 +10,5 @@ else
     echo "You are super user."
 fi
 
-dnf install mysql -y
+dnf install nginx -y
 echo "is script proceeding?"
