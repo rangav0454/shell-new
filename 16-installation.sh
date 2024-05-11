@@ -10,5 +10,5 @@ else
     echo "you are super user"
 fi
 
-dnf install kubernetes -y
+dnf install docker -y
 echo "is script proceeding"
