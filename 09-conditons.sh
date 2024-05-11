@@ -1,9 +1,14 @@
 #!/bin/bash
 
-Number=5
-if(number>5){
-     print " print above number is greater than 10"
-}
-else{
-     print " print above number is lessthan 10"
-}
+NUMBER=$5
+
+if [ $NUMBER>5 ]
+
+then
+     echo "Given number $NUMBER is greater than 10"
+
+else
+
+     echo "Given number $NUMBER is lessthan 10"
+     
+fi
